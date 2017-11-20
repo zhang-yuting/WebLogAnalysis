@@ -39,11 +39,9 @@ Web访问量分析器通过读取Web服务器的日志文件，按字段提取�
 
 正确运行后返回的结果为10天内网站页面的平均访问时间，可看出浏览者需要等待多长时间才能获得页面，从而确定性能问题出在哪里。按时间顺序排序：
 
-统计开始时间    
-    平均访问时间（秒）
+统计开始时间     平均访问时间（秒）
 
-2017-11-01    
-     1.45
+2017-11-01         1.45
 
 
 
@@ -56,25 +54,25 @@ Web访问量分析器通过读取Web服务器的日志文件，按字段提取�
 
 页面地址                                       平均访问时间（秒）                  
 
-/sales/models/orders/pay.php          3.89
+/sales/models/orders/pay.php                      3.89
 
-/user/login.action                    2.14
+/user/login.action                                2.14
 
-/user/logout.action                   2.09
+/user/logout.action                               2.09
 
-/user/reg.action                              2.01
+/user/reg.action                                  2.01
 
-/user/profile.php                             1.98
+/user/profile.php                                 1.98
 
-/images/index_flag.jsp                1.97
+/images/index_flag.jsp                            1.97
 
-/css/allthing.css                             1.88
+/css/allthing.css                                 1.88
 
-/js/jquery.js                         1.85
+/js/jquery.js                                     1.85
 
-/index.html                           1.52
+/index.html                                       1.52
 
-/sales/list.jsp                       1.41
+/sales/list.jsp                                   1.41
 
  
 
@@ -87,23 +85,21 @@ Web访问量分析器通过读取Web服务器的日志文件，按字段提取�
 
 页面地址                                       平均访问时间（秒）                  
 
-/index.html                           15321
+/index.html                                       15321
 
-/user/login.action                    12129
+/user/login.action                                12129
 
-/sales/list.jsp                       11012
+/sales/list.jsp                                   11012
 
-/sales/itemShow.jsp                   10842
+/sales/itemShow.jsp                               10842
 
-/sales/iloveit.jsp                            10526
+/sales/iloveit.jsp                                10526
 
-/games/play.php                       
-9231
+/games/play.php                                    9231
 
-/games/select.php                             
-9182
+/games/select.php                                  9182
 
-/sales/startItem/phone/iphonex.html            9081
+/sales/startItem/phone/iphonex.html                9081
 
-/sales/startItem/car/tesla/models.html  9722
+/sales/startItem/car/tesla/models.html             9722
 
